@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>repl.it</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<style>
+	body {
+		background-color: green
+	}
+</style>
+
+<body>
+	<script src="script.js">
+	</script>
+
+	<h1>Julian's Trivia Quiz</h1>
+
+	<p> Do you know me? Cause im awesome.</p>
+
+  <img src="IMG_0843.GIF" alt="BATIM ROCKS..."> <br>
+
+    <a href="firstquestion.html">Go to the first question</a>
+
+  </body>
+</html>
